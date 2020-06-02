@@ -8,7 +8,7 @@
   "window": {
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#fed6e3",
-    "navigationBarTitleText": "邱雨的记账本",
+    "navigationBarTitleText": "邱雨的记事本",
     "navigationBarTextStyle": "black",
     "enablePullDownRefresh": true
   },
